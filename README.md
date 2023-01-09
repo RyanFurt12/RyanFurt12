@@ -8,8 +8,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="PICTURE" height="150" style="border-radius:50px;" src="">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="right" alt="PICTURE" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQEVboTi4K6S-A/profile-displayphoto-shrink_800_800/0/1663849546004?e=1678924800&v=beta&t=qQvG2Knyj8pEPjYmNwBqPvuPjddJCsi4alKGDKyaVpA">
 </div>
   
   ##
