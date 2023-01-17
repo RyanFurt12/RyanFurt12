@@ -1,5 +1,5 @@
 ## Opa, meu bom!! 👋
-## Meu nome é Ryan Furtado de Almeida!!
+## Meu nome é Ryan Furtado!!
 <div align="center">
   <a href="https://github.com/RyanFurt12">
   
@@ -11,7 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="PICTURE" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQEVboTi4K6S-A/profile-displayphoto-shrink_800_800/0/1663849546004?e=1678924800&v=beta&t=qQvG2Knyj8pEPjYmNwBqPvuPjddJCsi4alKGDKyaVpA">
+ 
 </div>
   
   ##
@@ -34,4 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+ <img align="right" alt="PICTURE" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQEVboTi4K6S-A/profile-displayphoto-shrink_800_800/0/1663849546004?e=1678924800&v=beta&t=qQvG2Knyj8pEPjYmNwBqPvuPjddJCsi4alKGDKyaVpA">
 -->
