@@ -1,5 +1,5 @@
-## Opa, meu bom!! 👋
-## Meu nome é Ryan Furtado!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E69&repeat=false&width=435&lines=Ryan+Furtado+de+Almeida)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/RyanFurt12">
   
