@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E69&repeat=false&width=435&lines=Ryan+Furtado+de+Almeida)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=200&color=F78B47&multiline=true&repeat=false&width=550&height=70&lines=Ryan+Furtado+de+Almeida)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=200&color=F7DCA0&multiline=true&repeat=false&width=550&height=70&lines=Estudando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+;no+IFSP+-+Campus+Bragan%C3%A7a+Paulista)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/RyanFurt12">
@@ -9,6 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
