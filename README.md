@@ -5,9 +5,16 @@
 <div align="center">
   <a href="https://github.com/RyanFurt12">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=RyanFurt12&theme=great-gatsby&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF530E)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=RyanFurt12&theme=great-gatsby&border_radius=20&card_width=500&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF530E)](https://git.io/streak-stats)
   
 </div>
+
+<div align="center">
+  <a href="https://github.com/RyanFurt12">
+    <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=RyanFurt12&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=vision-friendly-dark" /
+  </a>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
