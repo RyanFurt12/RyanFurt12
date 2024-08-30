@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=200&color=F78B47&multiline=true&repeat=false&width=550&height=70&lines=Ryan+Furtado+de+Almeida)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=500&color=F78B47&multiline=true&repeat=false&width=550&height=70&lines=Ryan+Furtado+de+Almeida)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=200&color=F7DCA0&multiline=true&repeat=false&width=550&height=70&lines=Estudando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+;no+IFSP+-+Campus+Bragan%C3%A7a+Paulista)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=200&color=F7DCA0&multiline=true&repeat=false&width=600&height=70&lines=Estudando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+;no+IFSP+-+Campus+Bragan%C3%A7a+Paulista)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/RyanFurt12">
